@@ -569,8 +569,8 @@ To be able to read the other properties, you can use pattern matching thanks to 
 
 - [when](#when)
 - [maybeWhen](#maybeWhen)
-- [map](#map/maybeMap)
-- [maybeMap](#map/maybeMap)
+- [map](#mapmaybemap)
+- [maybeMap](#mapmaybemap)
 
 Alternatively, you can use the `is` operator:
 
